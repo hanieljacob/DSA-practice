@@ -1,0 +1,4 @@
+1. Height of a tree = Max of Left and Right + 1
+2. Diameter of a tree = left + Right
+3. BFS - Level order traversal
+4. DFS
